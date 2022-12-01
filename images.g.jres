@@ -84,6 +84,66 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "background-garden"
     },
+    "image18": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAA8AAAAAAAAPDwDw8AAAAA8P//D/8P/wDw////iPv0AP+/u0/f/fTw//+7+/RPD/D/v93dT08P8P///9/99PT//7/93fv09P///929T/////+/u//w/QD/////D/APAP////8AAAAA//8PDwAAAAD/8AAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player-goku"
+    },
+    "image19": {
+        "data": "hwQQABAAAAAAAAAAAAAAAADwDwAAAAAA8E/0Dw8AAAAAT0X/D/8P//9UVVX/iPv0T1W1/0/f/fRUVVW7+/RPD19Vtd3dT08PVVVVFd399PRfVbWd3fv09P9VVd29T///T1X0u//w/QD/RP//APAPAPD/DwAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player-gokusaiyan"
+    },
+    "image22": {
+        "data": "hwQQABAAAAAAAP///w8AAAD/VVVV9Q8A8FURQURU9QDwFUFERET1AF8RREREREQPX0EkRCRERA9fRERERERED19ERCREREQPX0RERERE5A9PRCREJETkD09ERERERO4P8ERERERE/gDwRERERO7+AAD/RETk/g8AAAD///8PAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player-gokusaiyan0"
+    },
+    "image23": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAA////DwAAAP+fmZn/DwAAj5mZmYkPAPCYmZmZmfgA8JmZEZGZ+QDwmRkREZn5APCZGRERmfkA8JkZERGZ+QDwmZkRkZn5APCYmZmZmfgAAI+ZmZmJDwAA/5+Zmf8PAAAA////DwAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player-gokusaiyan1"
+    },
+    "image24": {
+        "data": "hwQQABAAAAAAAP//DwAAAAAAv83///8PAAC/zb/dzQ///9/Nv8vNDx8lv83fu8wPXy/0zd/MzQ8v8vL/////D/AiT0IiJEIP8CRPJEJEIg8f9fL/////D19P9Mvf3c0PXyK/zb+9yw///7/N37vMDwAA382/vcsPAAC/zf///w8AAP//DwAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image20": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJDZ3QAAAAAAkNndAAAA7tGdmZmIiMje2t6ZmYiIyN693p2ZiIi43tremZmIiLju0Z2ZmYmIuAAAkNndAAAAAACQ2d0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player-steve"
+    },
+    "image21": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGZmBgAAAGBmcXFhZmZmdvH3928Xdxd3d3f/Z3dxd3H38fdvcXdxd/F3FwcAAABw9wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player-creeper"
+    },
+    "image25": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAO7u7g4AAADgVVVV5AAAAF4VEVVFDgDgVRFRVVXkAOAVEVVVReQA61VVVVVF7sDu7lVVVUUM7OBOVVVVRMwO4FRVVVVExADgRFVVRUTEAABORERERAwAAOBERETEAAAAAO7MzAwAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
+    "image26": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAGZmBgAAAABmERFhAAAAYBGZGZlmAAAWmZmZaREGYJEZmZlpaQYWGRGZmRGZBhYZmZmZZpkGFpmZmZmZlgaWmZmZmZlmBmCZmZmWaWkGAJYWEZmWmQYAYJkWZhlmAAAAZmmZaQAAAAAAZmYGAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage1"
+    },
+    "image27": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHDX3QAAAAAAcNfdAAAARNG9d/fn7s7U19179+7uztTd07337u6+1NfdtPfu7r5E0U1E9OfuvgAAcNfdAAAAAABw190AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player-steve0"
+    },
+    "image29": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAAHw8AAPAAAPAf//8AHw8ALxHS3Q8f8fAiEvLf/f/x8CIi0t39f//wIvLS3f1/D/Ai8v/f/f8P8CLy393/EQ/wIvLf3f8RDwAv8v//iP/xAPD//w//H/EAAPD/AADwDw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage3"
+    },
+    "image28": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAPAPAPAAAADwX/X/Xw8AAF9VVVVfDwDwVfVV9fUAAPBVVVX1VQ8A8FVVUlVVDwBfVVVVVVUPAF9VVeXlVQ8A//Vf5eX19fD///Xv5f/18P9VVf//Xw8AX1X/5e7/AABf9fD1/gAAAF8P8A8PAAAA/wAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage2"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",

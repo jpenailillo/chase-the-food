@@ -1,4 +1,4 @@
-// Código generado automáticamente. No editar.
+// Auto-generated code. Do not edit.
 namespace myImages {
 
     helpers._registerFactory("image", function(name: string) {
@@ -638,6 +638,234 @@ cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
 `;
+            case "image18":
+            case "player-goku":return img`
+. . . . . . . . . f f f f f f f 
+. . . . . . f f f f f f f f f f 
+. . . . . f f f f f f f f f f . 
+. . f f f f f f f f f f f f f f 
+. . . f f f f f f f f f f f f . 
+. f f f f b f b f b f b f f . . 
+. . f f f b b d f d d b f f f . 
+. . . f f b b d f f d b f f . . 
+. . f f f f b d f d d f f . . . 
+. . . . f 4 f d d d b f . . . . 
+. . . f 8 f 4 f d b f . . . . . 
+. . . f 8 d f 4 f f 4 f f . . . 
+. . . f b d f f 4 4 f d f . . . 
+. . . . f f 4 4 f f f f . . . . 
+. . . f 4 4 f f 4 4 f . . . . . 
+. . . f f f . . f f f . . . . . 
+`;
+            case "image19":
+            case "player-gokusaiyan":return img`
+. . . . f f 4 f 5 f f f f . . . 
+. . f . f 4 5 5 5 5 f 4 f f . . 
+. . f f 4 5 5 5 5 5 5 5 4 f . . 
+. f 4 4 5 5 5 5 5 5 5 5 4 f . . 
+. f 4 5 5 5 5 5 5 5 5 4 f f . . 
+. . f 4 5 b 5 b 5 b 5 f f . . . 
+. . f f 5 f b d 5 d d b f . . . 
+. . . f 5 f b d 1 9 d b f . . . 
+. . f f f f b d d d d f . . . . 
+. . . . f 4 f d d d b f . . . . 
+. . . f 8 f 4 f d b f . . . . . 
+. . . f 8 d f 4 f f 4 f f . . . 
+. . . f b d f f 4 4 f d f . . . 
+. . . . f f 4 4 f f f f . . . . 
+. . . f 4 4 f f 4 4 f . . . . . 
+. . . f f f . . f f f . . . . . 
+`;
+            case "image22":
+            case "player-gokusaiyan0":return img`
+. . . . f f f f f f f . . . . . 
+. . f f 5 5 5 5 5 4 4 f f . . . 
+. f 5 5 1 1 4 4 4 4 4 4 4 f . . 
+. f 5 1 1 4 4 4 4 4 4 4 4 f . . 
+f 5 1 1 4 4 4 4 4 4 4 4 4 4 f . 
+f 5 1 4 4 2 4 4 4 2 4 4 4 4 f . 
+f 5 1 4 4 4 4 4 4 4 4 4 4 4 f . 
+f 5 4 4 4 4 4 2 4 4 4 4 4 4 f . 
+f 5 4 4 4 4 4 4 4 4 4 4 4 4 f . 
+f 5 4 4 4 2 4 4 4 2 4 4 4 e f . 
+f 5 4 4 4 4 4 4 4 4 4 4 e e f . 
+. f 5 4 4 4 4 4 4 4 4 4 e f . . 
+. f 5 5 4 4 4 4 4 4 e e e f . . 
+. . f f 4 4 4 4 e e e f f . . . 
+. . . . f f f f f f f . . . . . 
+. . . . . . . . . . . . . . . . 
+`;
+            case "image23":
+            case "player-gokusaiyan1":return img`
+. . . . . . . . . . . . . . . . 
+. . . . f f f f f f f . . . . . 
+. . f f 8 9 9 9 9 9 8 f f . . . 
+. . f 8 9 9 9 9 9 9 9 8 f . . . 
+. f f 9 9 9 9 9 9 9 9 9 f f . . 
+. f 9 9 9 9 1 1 1 9 9 9 9 f . . 
+. f 9 9 9 1 1 1 1 1 9 9 9 f . . 
+. f 9 9 9 1 1 1 1 1 9 9 9 f . . 
+. f 9 9 9 1 1 1 1 1 9 9 9 f . . 
+. f 9 9 9 9 1 1 1 9 9 9 9 f . . 
+. f f 9 9 9 9 9 9 9 9 9 f f . . 
+. . f 8 9 9 9 9 9 9 9 8 f . . . 
+. . f f 8 9 9 9 9 9 8 f f . . . 
+. . . . f f f f f f f . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`;
+            case "image24":
+            case "myImage":return img`
+. . . f f f f . . f f f f . . . 
+. . . f 1 5 2 f f 1 5 5 f . . . 
+. . . f 5 f 2 2 4 5 f 2 f . . . 
+. . . f 2 2 f 2 2 f 4 2 f . . . 
+f f f f f 4 2 f f 2 4 f f f f f 
+f b b d b f f 4 4 f f b b d b f 
+f d d d d d f 2 4 f b d d d d f 
+f c c c c c f 4 2 f c c c c c f 
+f f f f f f f 2 2 f f f f f f f 
+. f b b d d f 2 4 f d b d b f . 
+. f d b b c f 4 4 f d d b d f . 
+. f d c b c f 2 4 f d b b b f . 
+. f d d c d f 2 2 f d b c b f . 
+. f c c c c f 4 2 f c c c c f . 
+. f f f f f f f f f f f f f f . 
+. . . . . . . . . . . . . . . . 
+`;
+            case "image20":
+            case "player-steve":return img`
+. . . . . e e e e e . . . . . . 
+. . . . . e d d d e . . . . . . 
+. . . . . 1 a d a 1 . . . . . . 
+. . . . . d d b d d . . . . . . 
+. . . . . d e e e d . . . . . . 
+. . . 9 9 9 d d d 9 9 9 . . . . 
+. . . 9 9 9 9 d 9 9 9 9 . . . . 
+. . . d d 9 9 9 9 9 d d . . . . 
+. . . d d 9 9 9 9 9 d d . . . . 
+. . . d d 9 9 9 9 9 d d . . . . 
+. . . . . 8 8 8 8 9 . . . . . . 
+. . . . . 8 8 8 8 8 . . . . . . 
+. . . . . 8 8 8 8 8 . . . . . . 
+. . . . . 8 8 8 8 8 . . . . . . 
+. . . . . 8 8 8 8 8 . . . . . . 
+. . . . . c c b b b . . . . . . 
+`;
+            case "image21":
+            case "player-creeper":return img`
+. . . . 6 1 7 7 1 7 . . . . . . 
+. . . . 6 7 f 7 f 7 . . . . . . 
+. . . . 6 1 7 f 7 7 . . . . . . 
+. . . . 6 7 f f f 1 . . . . . . 
+. . . . 6 1 f 7 f 7 . . . . . . 
+. . . . . 6 6 6 6 . . . . . . . 
+. . . . . 6 7 7 1 . . . . . . . 
+. . . . . 6 1 7 7 . . . . . . . 
+. . . . . 6 7 1 7 . . . . . . . 
+. . . . . 6 7 7 7 . . . . . . . 
+. . . . . 6 7 7 1 . . . . . . . 
+. . . . . 6 1 7 7 . . . . . . . 
+. . . . . 6 7 1 7 . . . . . . . 
+. . . . 6 7 7 7 7 7 . . . . . . 
+. . . . 6 1 7 7 1 7 . . . . . . 
+. . . . 6 f 7 f f f . . . . . . 
+`;
+            case "image25":
+            case "myImage0":return img`
+. . . . . . . . c e . . . . . . 
+. . . . . . . c e . . . . . . . 
+. . . . . . b e . . . . . . . . 
+. . . . e e e e e e e . . . . . 
+. . . e 5 5 5 e e 4 4 e . . . . 
+. . e 5 5 1 5 e 4 5 4 4 e . . . 
+. e 5 5 1 1 5 5 5 5 5 4 4 e . . 
+. e 5 1 1 1 5 5 5 5 5 4 4 e . . 
+. e 5 1 1 5 5 5 5 5 5 4 4 c . . 
+. e 5 1 5 5 5 5 5 5 5 4 4 c . . 
+. e 5 5 5 5 5 5 5 5 5 4 4 c . . 
+. e 5 5 5 5 5 5 5 5 4 4 4 c . . 
+. e 4 5 5 5 5 5 4 4 4 4 4 c . . 
+. . e 4 5 4 4 4 4 4 4 4 c . . . 
+. . . e 4 4 e c c 4 4 c . . . . 
+. . . . e e e . c c c . . . . . 
+`;
+            case "image26":
+            case "myImage1":return img`
+. . . . . . 6 6 6 6 . . . . . . 
+. . . . . 6 1 1 1 9 6 . . . . . 
+. . . . 6 1 9 9 9 9 9 6 . . . . 
+. . . 6 1 9 1 1 9 9 9 9 6 . . . 
+. . 6 1 9 9 1 9 9 9 9 6 9 6 . . 
+. . 6 1 9 1 1 9 9 9 9 1 9 6 . . 
+. 6 1 9 9 9 9 9 9 9 9 1 6 9 6 . 
+. 6 1 9 9 9 9 9 9 9 9 1 1 6 6 . 
+. 6 1 9 9 9 9 9 9 9 6 9 6 9 6 . 
+. 6 1 1 9 9 9 9 9 9 9 9 6 9 6 . 
+. 6 1 9 9 9 1 6 9 9 9 6 9 9 6 . 
+. . 6 9 6 6 1 6 9 9 6 9 1 6 . . 
+. . . 6 1 9 9 9 6 6 9 9 6 . . . 
+. . . 6 1 6 9 9 9 6 6 9 6 . . . 
+. . . . 6 6 6 6 6 6 6 6 . . . . 
+. . . . . . . . . . . . . . . . 
+`;
+            case "image27":
+            case "player-steve0":return img`
+. . . . . 4 4 4 4 4 . . . . . . 
+. . . . . 4 d d d 4 . . . . . . 
+. . . . . 1 7 d 7 1 . . . . . . 
+. . . . . d d d d d . . . . . . 
+. . . . . d d 3 d d . . . . . . 
+. . . 7 7 b d d d 4 7 7 . . . . 
+. . . 7 7 7 b d 4 4 7 7 . . . . 
+. . . d d 7 7 b b 4 d d . . . . 
+. . . d d 7 7 7 7 4 d d . . . . 
+. . . d d f f f f f d d . . . . 
+. . . . . 7 e e e 7 . . . . . . 
+. . . . . e e e e e . . . . . . 
+. . . . . e e e e e . . . . . . 
+. . . . . e e e e e . . . . . . 
+. . . . . e e e e e . . . . . . 
+. . . . . c c b b b . . . . . . 
+`;
+            case "image29":
+            case "myImage3":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . f f f f f f . . . 
+. . . . . . f 2 2 2 2 2 2 f . . 
+. . . . . f 2 2 2 2 2 2 2 2 f . 
+. . . . f f 1 2 2 2 2 2 2 2 f . 
+. . . f 1 1 1 1 2 f f f f f f f 
+. . . . f f 2 2 2 2 f f f f f f 
+. . . . . f d f d d f d d f f f 
+. . . . . f d f d d f d d f f . 
+. . . . . f d d d d d d d f . . 
+. . . . . . f d d d d f f 8 f . 
+. . . . . . . f f f f f f 8 f . 
+. . . . . f f f f f f 1 1 f f . 
+. . . . f 1 1 f 7 7 f 1 1 f 1 f 
+. . . . . f 1 1 f f f f f 1 1 f 
+. . . . . . f f f . . . . f f . 
+`;
+            case "image28":
+            case "myImage2":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . f f . . . . 
+. . . . . . . f f f f f f f f f 
+. . . . f f f 5 5 f f f 5 5 5 f 
+. . . f 5 5 5 5 5 5 f 5 5 5 f . 
+. . f 5 5 5 5 5 5 f f 5 5 f . . 
+. . f 5 5 5 5 5 5 f 5 5 f . . . 
+. f 5 5 f 5 5 5 5 5 f 5 f f f . 
+. f 5 5 5 5 2 5 5 5 f f 5 5 f . 
+. . f 5 5 5 5 5 e e e f e f . . 
+. . f 5 5 5 5 5 5 5 5 f e e f . 
+. . f 5 f f 5 5 e e e f e f . . 
+. . f f 5 5 5 5 5 5 f f f . . . 
+. f 5 5 f 5 5 5 5 f f 5 f . . . 
+. . f f . f f f f 5 5 f . . . . 
+. . . . . . . . . f f . . . . . 
+`;
         }
         return null;
     })
@@ -657,4 +885,4 @@ cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
     })
 
 }
-// Código generado automáticamente. No editar.
+// Auto-generated code. Do not edit.
