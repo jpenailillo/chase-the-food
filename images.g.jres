@@ -99,11 +99,6 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "player-gokusaiyan0"
     },
-    "image23": {
-        "data": "hwQQABAAAAAAAAAAAAAAAAAA////DwAAAP+fmZn/DwAAj5mZmYkPAPCYmZmZmfgA8JmZEZGZ+QDwmRkREZn5APCZGRERmfkA8JkZERGZ+QDwmZkRkZn5APCYmZmZmfgAAI+ZmZmJDwAA/5+Zmf8PAAAA////DwAAAAAAAAAAAAAAAAAAAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "player-gokusaiyan1"
-    },
     "image24": {
         "data": "hwQQABAAAAAAAP//DwAAAAAAv83///8PAAC/zb/dzQ///9/Nv8vNDx8lv83fu8wPXy/0zd/MzQ8v8vL/////D/AiT0IiJEIP8CRPJEJEIg8f9fL/////D19P9Mvf3c0PXyK/zb+9yw///7/N37vMDwAA382/vcsPAAC/zf///w8AAP//DwAAAA==",
         "mimeType": "image/x-mkcd-f4",
@@ -143,6 +138,51 @@
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAPAPAPAAAADwX/X/Xw8AAF9VVVVfDwDwVfVV9fUAAPBVVVX1VQ8A8FVVUlVVDwBfVVVVVVUPAF9VVeXlVQ8A//Vf5eX19fD///Xv5f/18P9VVf//Xw8AX1X/5e7/AABf9fD1/gAAAF8P8A8PAAAA/wAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "myImage2"
+    },
+    "image31": {
+        "data": "hwQQABAAAAAAAP///w8AAAD/Ih8R/Q8A8EQi8hHd/QDwJCLyERH9AE8iIiIfEd0PLyIiIh8R0Q8vIiLy/xHRDy8iIvLxEdEPLyIi8v8R0Q8vIiLCHxGxDy8iIsIfEbsP8CIi/BER+wDwwsz8EdH9AAD/zB8R/Q8AAAD///8PAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage5"
+    },
+    "image32": {
+        "data": "hwQQABAAAAAAAAD/AAAAAAAA/5n///8PAPCfkf1FRPQAXx+R/VVE9ABfH5H9VfQP8FWfmf1V9ADwVZ/Z/VX0APBV9d1fVfQAL19V/1VFRA8vX1VVVURE9PDwX1VERET0AADw/////w8AAABfRUQPAAAAAF9FRA8AAAAA8P//AAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage6"
+    },
+    "image33": {
+        "data": "hwQQABAAAAAAAAD/AAAAAAAA/5n///8PD/Cfkf2jqvr/Px+R/TOq+u8/H5H9M/oP7zOfmf0z+gDvM5/Z/TP6AO8z890/M/oA7z8z/zOjqg//PzMzM6qq+v/wPzOqqqr6DwDw/////w8AAAA/o6oPAAAAAD+jqg8AAAAA8P//AAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage7"
+    },
+    "image30": {
+        "data": "hwQQABAAAAAAAAD/AAAAAAAA/5n///8PAPCfkf3i7v4ALx+R/SLu/gAvH5H9Iv4P8CKfmf0i/gDwIp/Z/SL+APAi8t0vIv4AAC8i/yLi7g8ALyIiIu7u/gDwLyLu7u7+AADw/////w8AAAAv4u4PAAAAAC/i7g8AAAAA8P//AAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage4"
+    },
+    "image23": {
+        "data": "hwQQABAAAAAAAPD//wAAAAAA/5n5DwAAAP+fmZn/DwAAn5mZmZkPAPCZmZmZmfkA/5mZEZGZ+Q+fmRkREZmZD5+ZGRERmZkPn5kZERGZmQ//mZkRkZn5D/CZmZmZmfkAAJ+ZmZmZDwAA/5+Zmf8PAAAA/5n5DwAAAADw//8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player-gokusaiyan1"
+    },
+    "image34": {
+        "data": "hwQQABAAAAAAAAAA/wAAAAAAAPAzDwAAAAAAr6rzAP8A///////w8/AzMzMzMz/6PzMRMTMz+g8/ExERMzP6AD8T/xEzM/oAPxMRETMz+gA/E/8RM6P6D/AzETEzqj/6AP//////8PMAAAA/qg8A/wAAAPCj+gAAAAAAAD/6AAAAAAAA8A8AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage8"
+    },
+    "image35": {
+        "data": "hwQQABAAAAD/DwAAAPD//y///////4/4L/JFLyIvn/gv8lEv8iKf+C///y8iIp/4//8R/f8iH/j/ERHd/S///x/x/xHdz4/4H/H/EdHPn/gfERER38+f+B/x/xHR/x/48P//EfEP//8A/xHxDwAAAAAA//8AAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage9"
+    },
+    "image36": {
+        "data": "hwQQABAAAAAAAAAA//8AAPD///8XEf8PHxEREXd3afYfEdHdEZlp9vAR3d8dmWn28BHd3R2ZaQ/wEd39HZlpD/AR3f0dmWkP8BHd/R2ZaQ/wEd3dHZlpD/AR3d8dmWkP8BHR3RGZafYfEREREZlp9h8RERF3d2n28P///xcR/w8AAAAA//8AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage10"
+    },
+    "image37": {
+        "data": "hwQQABAAAAAAAAAAIN0N4ADg7gAi3Q3uIN7tICLSiO4i7t4tIoiI7iLe3o2IhYjuIt3dLYKIiAAi3d0tgogIACLd3S2CiAgAIv/tLYiFiAAg3e4NIoiI7iDQ7Q0i0ojuINDtACLdDe4AAA0AIN0N4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage11"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
